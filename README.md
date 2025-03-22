@@ -6,7 +6,7 @@ This project demonstrates fine-tuning the Microsoft Phi-2 model using LoRA (Low-
 
 ## Sample Chat
 
-![chat](.chat.png)
+![chat](chat.png)
 
 ## Project Structure
 ```
