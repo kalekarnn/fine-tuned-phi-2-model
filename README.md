@@ -2,6 +2,8 @@
 
 This project demonstrates fine-tuning the Microsoft Phi-2 model using LoRA (Low-Rank Adaptation) on the OpenAssistant Conversations Dataset.
 
+[Live Demo](https://huggingface.co/spaces/kalekarnn/fine-tuned-phi-2-model)
+
 ## Project Structure
 ```
 phi_2_qlora/
