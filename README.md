@@ -4,6 +4,10 @@ This project demonstrates fine-tuning the Microsoft Phi-2 model using LoRA (Low-
 
 [Live Demo](https://huggingface.co/spaces/kalekarnn/fine-tuned-phi-2-model)
 
+## Sample Chat
+
+![chat](.chat.png)
+
 ## Project Structure
 ```
 phi_2_qlora/
